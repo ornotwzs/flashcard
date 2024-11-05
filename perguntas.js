@@ -17,7 +17,7 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'O que é a Segunda Lei de Mendel?',
+    'Qual a Segunda Lei de Mendel?',
     'A Segunda Lei de Mendel afirma que alelos de diferentes genes se segregam independentemente durante a formação dos gametas, significando que a herança de um gene não afeta a de outro gene.'
 )
 
@@ -29,9 +29,10 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'Qual é a diferença entre Genótipo e fenótipo?',
-    'Genótipo é a composição genética de um organismo, representando a combinação de alelos para um gene. Fenótipo, por outro lado, são as características observáveis resultantes da interação entre o genótipo e o ambiente, como cor, forma e comportamento.'
+    'Considere uma planta de ervilha que é heterozigota para duas características: cor da semente (amarela é dominante sobre verde) e forma da semente (lisa é dominante sobre rugosa). Qual será a proporção fenotípica esperada na geração F2?',
+    '9:3:3:1 (9 amarelas lisas : 3 amarelas rugosas : 3 verdes lisas : 1 verde rugosa).'
 )
+
 
 criaCartao(
     'Biologia',
@@ -47,6 +48,8 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'Considere uma planta de ervilha que é heterozigota para duas características: cor da semente (amarela é dominante sobre verde) e forma da semente (lisa é dominante sobre rugosa). Qual será a proporção fenotípica esperada na geração F2?',
-    '9:3:3:1 (9 amarelas lisas : 3 amarelas rugosas : 3 verdes lisas : 1 verde rugosa).'
+    'Qual é a diferença entre Genótipo e fenótipo?',
+    'Genótipo é a composição genética de um organismo, representando a combinação de alelos para um gene. Fenótipo, por outro lado, são as características observáveis resultantes da interação entre o genótipo e o ambiente, como cor, forma e comportamento.'
 )
+
+
